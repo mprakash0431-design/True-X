@@ -1,0 +1,17 @@
+aiofiles
+aiohttp
+aioshutil
+apscheduler
+cloudscraper
+httpx
+requests
+rarfile
+urllib3
+pillow
+psutil
+py7zr
+tenacity
+tgcrypto
+natsort
+python-magic
+pytz
